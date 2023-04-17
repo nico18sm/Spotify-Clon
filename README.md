@@ -1,4 +1,4 @@
-# Getting Started with Jamming
+# Getting Started with the Spotify Clon
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
