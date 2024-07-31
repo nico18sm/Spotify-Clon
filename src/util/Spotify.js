@@ -1,5 +1,5 @@
 const cliendId = 'c2c78857a2924b23bf9e205ea2e874b3'; 
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://spotify-clon24.netlify.app/';
 let accessToken; 
 
 
